@@ -1450,10 +1450,10 @@ dynamodb-migrations@0.0.10:
     bluebird "^3.0.6"
     mkdirp "^0.5.0"
 
-dynamoose@^1.4.0:
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/dynamoose/-/dynamoose-1.4.0.tgz#b53a326b8e3e23ef40ff9c850bca1645c109cd12"
-  integrity sha512-jnIoUSYPaue99Nu9xVAKfOMUNZG0afYU8CLlrJBTh63U5czA98stp7E4smd7eCUxSo7/ApHBXwLpt/Gcud6k3w==
+dynamoose@^1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/dynamoose/-/dynamoose-1.5.0.tgz#7c2e518448610a162fa466217b87a9b621081cb5"
+  integrity sha512-oEC18/qrNOgh2mHdDHUuPblgJwXnNdW+5db2cZdGtOCBD26cF4+gX5LyTfjsvdPQJemmiRk5SXsZ+yTuZ0UtRw==
   dependencies:
     aws-sdk "2.370.0"
     debug "4.1.0"

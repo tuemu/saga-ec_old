@@ -1,0 +1,33 @@
+[
+    {
+      "id": "3d1a0cd0-4aba-11e8-8541-13ccb3287721",
+      "userName": "uemura",
+      "itemName": "Coffee",
+      "price": 1980,
+      "quantity": 111,
+      "completed": "true",
+      "createdAt": 1524902442626,
+      "updatedAt": 1524902442626
+    },
+    {
+        "id": "42750d60-4aba-11e8-b86e-b3202a0b01c8",
+        "userName": "uemura",
+        "itemName": "Milk",
+        "price": 2980,
+        "quantity": 222,
+        "completed": "true",
+        "createdAt": 1524902442626,
+        "updatedAt": 1524902442626
+      },
+      {
+        "id": "3eeaae20-4aba-11e8-8240-17e64d342d41",
+        "userName": "uemura",
+        "itemName": "Tea",
+        "price": 3980,
+        "quantity": 333,
+        "completed": "true",
+        "createdAt": 1524902442626,
+        "updatedAt": 1524902442626
+      }
+]
+    
